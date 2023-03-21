@@ -1,3 +1,3 @@
-func main() {
-doing a test}
-another test.test
+package main
+
+func main() {}
